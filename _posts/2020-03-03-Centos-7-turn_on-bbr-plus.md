@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      开启bbr-plus
+subtitle:   在centos-7上开启bbr-plus
+date:       2020-03-03
+author:     BY
+header-img: img/post-bg-re-vs-ng2.jpg
+catalog: true
+tags:
+    - bbr-plus
+---
 # 关于bbr 
 bbr算法为google的一个开源tcp网络加速算法，使用bbr可以显著提高网络连接速度以降降低延迟，对于国内连接海外服务器，是一个必备的程序。
 
